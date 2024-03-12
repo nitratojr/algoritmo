@@ -1,0 +1,12 @@
+let nota1 = 10
+let nota2 = 8
+let nota3 = 9
+const soma = nota1 + nota2 + nota3
+console.log(soma)
+let nota = 27
+let n1 = 3
+const divisao = nota / n1
+console.log(divisao)
+
+
+//base X altura = area
