@@ -1,0 +1,7 @@
+trocar uma lampada
+
+passo 1:requer ter uma escada
+passo 2:ter uma segunda lampada
+passo 3:subir encima da escada
+passo 4:retirar a lampada com defeito
+passo 5:colocar no lugar que você retirou a lampada uma nova
