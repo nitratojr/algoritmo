@@ -1,6 +1,7 @@
-for( i = 0;i <= 10; i++){
+const pessoa = {
+    nome:'cleber',
+    idade:22,
+    generoMusical:'funk'
     
-    if(i % 2 == 0){
-        console.log(i)
-    }
 }
+console.log(`o nome da pessoa é ${pessoa.nome},ela tem,${pessoa.idade}anos e gosta muito de ${pessoa.generoMusical}.`)
